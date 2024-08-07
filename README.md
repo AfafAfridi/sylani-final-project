@@ -37,10 +37,8 @@ A full-stack web application for collecting and managing feedback. The applicati
 
 for backend: 
 
-cd server
-
-
-node server .js
+  cd server
+  node server .js
 
 
 Frontend:
