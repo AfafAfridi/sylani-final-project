@@ -60,3 +60,10 @@ things to do:
 deploy this on vercel 
 admin route or aurhenticatication issues
 log in and sign up issue.
+
+notes: question paper:
+students fill feedback form and the data is shown as graphs on admin dashboard for analizying and making changes to make the students learning more efficient and purposeful.
+- SMIT Teacher/Student Feedback Form:
+ - Implement a user-friendly feedback form system for continuous improvement.
+ - Analyze feedback data to enhance course content, teaching methodologies, and overall student
+experience. 
