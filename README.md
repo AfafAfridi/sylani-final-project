@@ -35,12 +35,11 @@ A full-stack web application for collecting and managing feedback. The applicati
    cd client
    npm start
 
-for backend: 
 
-  cd server
-  node server .js
-
-
+1. Navigate to the `server` directory:
+   ```bash
+   cd server
+   node server.js
 Frontend:
 
 Access the app at http://localhost:3000.
