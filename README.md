@@ -18,10 +18,10 @@ A full-stack web application for collecting and managing feedback. The applicati
 
 - **Development Tools:**
   - npm or yarn for package management
-  - Webpack (if used)
+    
 
 - **Deployment:**
-  - Vercel (if intended)
+  - Vercel 
 
 ## Project Structure
 
