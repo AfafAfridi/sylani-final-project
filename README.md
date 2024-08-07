@@ -1,4 +1,3 @@
-"# sylani-final-project" 
 # Feedback App
 
 A full-stack web application for collecting and managing feedback. The application allows users to register, log in, provide feedback, and view feedback reports. Admins can access an admin dashboard to analyze feedback data and view user activity.
