@@ -42,8 +42,11 @@ Backend:
 The server listens on http://localhost:5001.
 Endpoints:
 POST /api/auth/login - Login endpoint.
+
 POST /api/auth/register - Registration endpoint.
+
 POST /api/feedback - Submit feedback.
+
 GET /api/feedback - Retrieve feedback (admin access).
 
-dep[ploy this on vercel 
+deploy this on vercel 
