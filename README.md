@@ -50,3 +50,4 @@ POST /api/feedback - Submit feedback.
 GET /api/feedback - Retrieve feedback (admin access).
 
 deploy this on vercel 
+admin route or aurhenticatication
