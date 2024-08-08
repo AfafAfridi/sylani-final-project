@@ -33,6 +33,13 @@ A full-stack web application for collecting and managing feedback. The applicati
 1. Navigate to the `client` directory:
    ```bash
    cd client
+   npm start
+
+
+1. Navigate to the `server` directory:
+   ```bash
+   cd server
+   node server.js
 Frontend:
 
 Access the app at http://localhost:3000.
@@ -49,4 +56,14 @@ POST /api/feedback - Submit feedback.
 
 GET /api/feedback - Retrieve feedback (admin access).
 
+things to do:
 deploy this on vercel 
+admin route or aurhenticatication issues
+log in and sign up issue.
+
+notes: question paper:
+students fill feedback form and the data is shown as graphs on admin dashboard for analizying and making changes to make the students learning more efficient and purposeful.
+- SMIT Teacher/Student Feedback Form:
+ - Implement a user-friendly feedback form system for continuous improvement.
+ - Analyze feedback data to enhance course content, teaching methodologies, and overall student
+experience. 
