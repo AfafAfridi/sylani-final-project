@@ -1,20 +1,18 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './Header.css';
+import { Link } from 'react-router-dom';
 
-const Header = () => {
+function Header() {
   return (
-    <header>
-      <div className="logo">
-        <img src="path_to_logo_image" alt="Sylani Logo" />
+    <header className="header">
+      <div className="logo-container">
+        <img src="/sylani-logo.png" alt="Saylani Logo" className="logo" />
       </div>
-      <nav>
-        <ul>
-          <li><Link to="/login">Login</Link></li>
-        </ul>
+      <nav className="nav">
+        <Link to="/login" className="login-button">Login</Link>
       </nav>
     </header>
   );
-};
+}
 
 export default Header;
